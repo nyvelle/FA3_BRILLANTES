@@ -1,9 +1,10 @@
 * {
-	box-sizing:border-box;
+	box-repeat:no-repeat;
 }
 
-body {
-	background-color:gray;
+h1 {
+	text-align: center;
+	background-color: #86db86;
 	background-image: url("images/bg.jfif");
 	background-repeat:no-repeat;
 	background-size: 100%;
