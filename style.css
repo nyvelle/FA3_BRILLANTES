@@ -6,30 +6,30 @@ body {
     margin: 0px;
 }
 h1 {
-	width: 250px;
-	color: white;
-	background-color:#482B66;
 	text-align: center;
 	margin-left: 550px;
+	background-color:#482B66;
+	color: white;
 	font-family: serif;
 	border: 2px blue dotted;
 	padding: 10px 15px 10px 15px;
+	width: 250px;
 	margin-bottom: 20px;
 }
 p {
-	width: 500px;
 	text-align: justified;
-	background-color: hsl(107, 100%, 100%);
 	margin-left: 420px;
+	background-color: hsl(107, 100%, 100%);
 	font-style:italic;
+	padding: 20px;
 	border: 3px black;
 	border-style: dotted dashed solid double;
-	padding: 20px;
+	width: 500px;
 }
 
 span {
-	font-style: italic;
 	font-weight: bold;
+	font-style: italic;
 	color: rgb(83,21,114);
 	margin-left: 2px;
 	margin-right: 5px;
